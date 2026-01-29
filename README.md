@@ -24,8 +24,10 @@ Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**
 
 ### 📈 Estatísticas do GitHub
 
-![Estatísticas do Murilo](https://github-readme-stats.vercel.app/api?username=MChaves-21&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaves-21&layout=compact&theme=radical)
+<p align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MChaves-21&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MChaves-21&layout=compact&theme=radical" />
+</p>
 
 ---
 
