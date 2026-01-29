@@ -17,11 +17,11 @@ Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas**
 
 ---
 
-### 📈 Estatísticas do GitHub
-
-[![Estatísticas do Murilo](https://github-readme-stats.vercel.app/api?username=MChaves-21&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=MChaves-21&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+### 🎯 No que estou focado agora?
+- 🎓 **Faculdade:** 5º Semestre de ADS na Unifametro.
+- 📊 **Dados:** Análise de dados com **Neo4j** e linguagem **Cypher**.
+- ☁️ **Cloud:** Explorando deploys com **Docker** e **AWS**.
+- 🤖 **IA:** Integrando APIs da OpenAI em fluxos do **n8n**.
 
 ---
 
