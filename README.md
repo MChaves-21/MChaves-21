@@ -2,7 +2,7 @@
 
 ### Desenvolvedor Full Stack | DevOps & Automação | Analista de Dados
 
-Atualmente cursando o 3º semestre de **Análise e Desenvolvimento de Sistemas** na Unifametro. Sou apaixonado por resolver problemas complexos através de código limpo, automação de processos e análise de dados.
+Atualmente cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** na Unifametro. Sou apaixonado por resolver problemas complexos através de código limpo, automação de processos e análise de dados.
 
 - 🛠️ Atualmente trabalhando em projetos com **Node.js, TypeScript e React**.
 - ⚙️ Especialista em automação de workflows com **n8n**.
