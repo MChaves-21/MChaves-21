@@ -1,12 +1,12 @@
 # Olá, eu sou o Murilo Chaves! 👋
 
-### Desenvolvedor Full Stack | DevOps & Automação 
+### Desenvolvedor Júnior | Automação com IA & DevOps 
 
-Atualmente cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas** na Unifametro. Sou apaixonado por resolver problemas complexos através de código limpo, automação de processos e análise de dados.
+Estudante de **Análise e Desenvolvimento de Sistemas** na Unifametro (formatura em 12/2026) e estagiário de Melhoria Contínua e Automação na Gonçalves & Silva, onde construo automações com n8n, APIs e IA. Reestruturei o assistente de IA do atendimento em subagentes e reduzi respostas inventadas de ~20% para ~5%.
 
 - 🛠️ Atualmente trabalhando em projetos com **Python (FastAPI/Flask), Node.js e React**.
-- ⚙️ Especialista em automação de workflows com **n8n** e scripts personalizados em **Python**.
-- 🐳 Explorando o ecossistema **Docker** para ambientes escaláveis.
+- ⚙️ Automação de workflows com **n8n** e scripts em **Python**, em uso diário na empresa.
+- 🐳 Estudando DevOps: **Docker**, **GitHub Actions**, **Terraform** e **AWS** (formado no AWS re/Start).
 - 📊 Experiência com **SQL (PostgreSQL/MySQL)** e modelagem de grafos com **Neo4j**.
 
 ---
@@ -40,9 +40,18 @@ Atualmente cursando o 5º semestre de **Análise e Desenvolvimento de Sistemas**
 
 ### 🎯 No que estou focado agora?
 - 🐍 **Backend:** Aprofundando em **Python** para desenvolvimento de APIs e automações robustas.
-- 🎓 **Faculdade:** 5º Semestre de ADS na Unifametro.
+- 🎓 **Faculdade:** ADS na Unifametro, formatura em 12/2026.
 - 📊 **Dados:** Análise de dados integrando Python, **Neo4j** e linguagem **Cypher**.
 - 🤖 **IA:** Criando scripts em Python e fluxos no **n8n** integrados com APIs da OpenAI.
+
+---
+
+### 🌟 Projetos em destaque
+
+- **[ViagemPro](https://github.com/MChaves-21/controle-viagens)**: gestão de despesas corporativas (Next.js 15, MySQL, JWT), [em produção](https://controle-viagens-black.vercel.app)
+- **[MKT Automation](https://github.com/MChaves-21/Automacao_Publicacao)**: publicação em redes sociais com IA (Flask, Gemini, PostgreSQL), 151 testes e CI
+- **[Automações n8n / ATLAS](https://github.com/MChaves-21/AUTOMACAO-N8N)**: pipeline com LLM que processa +100 notícias por dia
+- **[NEXOS](https://github.com/MChaves-21/Nexos)**: plataforma financeira com Open Finance
 
 ---
 
