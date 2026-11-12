@@ -20,6 +20,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 | **[Crash Game](https://github.com/MChaves-21/crash_game)** | Jogo multiplayer em tempo real com microsserviços, sagas e padrão outbox | NestJS · Bun · RabbitMQ · PostgreSQL · Docker |
 | **[ATLAS + Monitor de Uptime](https://github.com/MChaves-21/AUTOMACAO-N8N)** | Curadoria de notícias com LLM e monitor de sites com alertas no Telegram | n8n · Llama 3.1 (Groq) · Node.js · Airtable |
 | **[Desafio Target Sistemas](https://github.com/MChaves-21/desafio-target-sistemas)** | Desafio técnico em camadas (Core separado do console), com testes e CI | C# · .NET 8 · xUnit |
+| **Ponto Digital** · [vídeo](https://www.linkedin.com/feed/update/urn:li:activity:7521171607386578946/) | Controle de ponto para uma empresa parceira, feito em equipe no projeto de extensão da Unifametro | Java · Spring Boot · React · AWS |
 
 <details>
 <summary>Outros projetos</summary>
@@ -76,7 +77,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 ### 🎯 No que estou focado agora
 
 - 🤖 **IA em produção:** reduzir respostas inventadas em assistentes, com prompts menores e revisão de conversas reais
-- ☁️ **Cloud:** formado no **AWS re/Start** e estudando para a **AWS Cloud Practitioner (CLF-C02)**
+- ☁️ **Cloud:** **AWS Certified Cloud Practitioner** e formado no **AWS re/Start**
 - 🐳 **DevOps:** Docker, GitHub Actions e Terraform
 - 🎓 **Faculdade:** ADS na Unifametro, formatura em 12/2026
 
