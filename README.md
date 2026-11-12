@@ -17,9 +17,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 | **[ViagemPro](https://github.com/MChaves-21/controle-viagens)** · [demo](https://controle-viagens-black.vercel.app) | Gestão de despesas de viagens corporativas com 4 perfis de acesso, KPIs e relatórios | Next.js 15 · MySQL · JWT · bcrypt |
 | **[MKT Automation](https://github.com/MChaves-21/Automacao_Publicacao)** | Publicação agendada em 9 redes sociais com conteúdo adaptado por IA, 2FA e 151 testes | Python · Flask · Gemini · PostgreSQL · GitHub Actions |
 | **[NEXOS](https://github.com/MChaves-21/Nexos)** · [demo](https://nexos21.lovable.app) | Finanças pessoais com Open Finance (Pluggy), importação de extratos e categorização por IA | React · TypeScript · Supabase · Playwright |
-| **[Crash Game](https://github.com/MChaves-21/crash_game)** | Desafio técnico de processo seletivo: jogo multiplayer em tempo real com microsserviços, sagas e padrão outbox | NestJS · Bun · RabbitMQ · PostgreSQL · Docker |
 | **[ATLAS + Monitor de Uptime](https://github.com/MChaves-21/AUTOMACAO-N8N)** | Curadoria de notícias com LLM e monitor de sites com alertas no Telegram | n8n · Llama 3.1 (Groq) · Node.js · Airtable |
-| **[Desafio Target Sistemas](https://github.com/MChaves-21/desafio-target-sistemas)** | Desafio técnico de processo seletivo, em camadas (Core separado do console), com testes e CI | C# · .NET 8 · xUnit |
 | **Ponto Digital** · [vídeo](https://www.linkedin.com/feed/update/urn:li:activity:7521171607386578946/) | Controle de ponto para uma empresa parceira, feito em equipe no projeto de extensão da Unifametro | Java · Spring Boot · React · AWS |
 
 <details>
@@ -30,6 +28,8 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 - **[Universo Técnico](https://github.com/MChaves-21/universo-tecnico)**: portfólio interativo em JavaScript puro e Canvas · [demo](https://mchaves-21.github.io/universo-tecnico/)
 - **[APS DeliveryExpress](https://github.com/MChaves-21/aps-delivery-murilo-chaves)**: 20 casos de teste com Jest e 100% de cobertura
 - **[Neo4j](https://github.com/MChaves-21/neo4j)**: modelagem de grafos e consultas em Cypher
+
+**Desafios técnicos de processos seletivos:** [Crash Game](https://github.com/MChaves-21/crash_game) (NestJS, RabbitMQ, microsserviços) · [Desafio Target](https://github.com/MChaves-21/desafio-target-sistemas) (C#, .NET 8, xUnit)
 
 </details>
 
