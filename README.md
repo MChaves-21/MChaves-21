@@ -14,7 +14,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 
 | Projeto | O que é | Stack |
 |---|---|---|
-| **[ViagemPro](https://github.com/MChaves-21/controle-viagens)** · [demo](https://controle-viagens-black.vercel.app) | Gestão de despesas de viagens corporativas com 4 perfis de acesso, KPIs e relatórios | Next.js 15 · MySQL · JWT · bcrypt |
+| **[ViagemPro](https://github.com/MChaves-21/controle-viagens)** · [demo](https://controle-viagens-black.vercel.app) | Gestão de despesas de viagens corporativas com 4 perfis de acesso, KPIs e relatórios; demo com acesso de visitante | Next.js 15 · MySQL · JWT · bcrypt |
 | **[MKT Automation](https://github.com/MChaves-21/Automacao_Publicacao)** | Publicação agendada em 9 redes sociais com conteúdo adaptado por IA, 2FA e 151 testes | Python · Flask · Gemini · PostgreSQL · GitHub Actions |
 | **[NEXOS](https://github.com/MChaves-21/Nexos)** · [demo](https://nexos21.lovable.app) | Finanças pessoais com Open Finance (Pluggy), importação de extratos e categorização por IA | React · TypeScript · Supabase · Playwright |
 | **[ATLAS + Monitor de Uptime](https://github.com/MChaves-21/AUTOMACAO-N8N)** | Curadoria de notícias com LLM e monitor de sites com alertas no Telegram | n8n · Llama 3.1 (Groq) · Node.js · Airtable |
@@ -23,8 +23,8 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 <details>
 <summary>Outros projetos</summary>
 
-- **[Sistema de Orçamentos](https://github.com/MChaves-21/orcamento)**: cotação e aprovação de compras em várias etapas (Next.js, TypeScript, MySQL)
-- **[GSA Player](https://github.com/MChaves-21/gsa)**: player de música com a API do Deezer (React, TypeScript)
+- **[Sistema de Orçamentos](https://github.com/MChaves-21/orcamento)**: cotação e aprovação de compras em várias etapas (Next.js, TypeScript, MySQL) · [demo](https://orcamento-ashy.vercel.app)
+- **[GSA Player](https://github.com/MChaves-21/gsa)**: player de música com a API do Deezer (React, TypeScript) · [demo](https://gsa-player.vercel.app)
 - **[Universo Técnico](https://github.com/MChaves-21/universo-tecnico)**: portfólio interativo em JavaScript puro e Canvas · [demo](https://mchaves-21.github.io/universo-tecnico/)
 - **[APS DeliveryExpress](https://github.com/MChaves-21/aps-delivery-murilo-chaves)**: 20 casos de teste com Jest e 100% de cobertura
 - **[Neo4j](https://github.com/MChaves-21/neo4j)**: modelagem de grafos e consultas em Cypher
