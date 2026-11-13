@@ -78,7 +78,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 ### 🎯 No que estou focado agora
 
 - 🤖 **IA em produção:** reduzir respostas inventadas em assistentes, com prompts menores e revisão de conversas reais
-- ☁️ **Cloud:** **AWS Certified Cloud Practitioner** e formado no **AWS re/Start**
+- ☁️ **Cloud:** **AWS Certified Cloud Practitioner** e **AWS re/Start, Inteligência Artificial e No Code** (Escola da Nuvem, 300 h, concluído em 11/2026)
 - 🐳 **DevOps:** Docker, GitHub Actions e Terraform
 - 🎓 **Faculdade:** ADS na Unifametro, formatura em 12/2026
 
