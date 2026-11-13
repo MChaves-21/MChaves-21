@@ -15,6 +15,7 @@ Antes, na TDS Soluções, escrevi SQL em bases de produção e participei da mig
 | Projeto | O que é | Stack |
 |---|---|---|
 | **[ViagemPro](https://github.com/MChaves-21/controle-viagens)** · [demo](https://controle-viagens-black.vercel.app) | Gestão de despesas de viagens corporativas com 4 perfis de acesso, KPIs e relatórios; demo com acesso de visitante | Next.js 15 · MySQL · JWT · bcrypt |
+| **[Atendente de IA: prompt único x subagentes](https://github.com/MChaves-21/atendimento-pizzaria-ia)** | Atendente de pizzaria fictícia em duas versões, com cálculo em código, verificador de respostas inventadas e avaliação com 49 casos | Python · LLM (gpt-oss, Gemini) · pytest |
 | **[MKT Automation](https://github.com/MChaves-21/Automacao_Publicacao)** | Publicação agendada em 9 redes sociais com conteúdo adaptado por IA, 2FA e 151 testes | Python · Flask · Gemini · PostgreSQL · GitHub Actions |
 | **[NEXOS](https://github.com/MChaves-21/Nexos)** · [demo](https://nexos21.lovable.app) | Finanças pessoais com Open Finance (Pluggy), importação de extratos e categorização por IA | React · TypeScript · Supabase · Playwright |
 | **[ATLAS + Monitor de Uptime](https://github.com/MChaves-21/AUTOMACAO-N8N)** | Curadoria de notícias com LLM e monitor de sites com alertas no Telegram | n8n · Llama 3.1 (Groq) · Node.js · Airtable |
